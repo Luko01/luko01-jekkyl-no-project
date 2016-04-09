@@ -3,7 +3,7 @@ layout: post
 title: VR hrozby a výhody
 ---
 
-#Virtuální realita, hrozba a nebo výhoda?
+# Virtuální realita, hrozba a nebo výhoda?
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
