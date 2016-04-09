@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### O čem práce bude
 
 Vybral jsem si téma: Virtuální realita v rámci počítačových her (Výhody a hrozby s užíváním)
 
