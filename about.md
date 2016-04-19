@@ -34,6 +34,43 @@ Virtuální realita v počítačových hrách, aneb v nové galaxii do jedné mi
 - [Srovnání zařízení pro virtuální realitu](http://www.wareable.com/headgear/the-best-ar-and-vr-headsets)
 - [Jak funguje virtuální realita?](http://electronics.howstuffworks.com/gadgets/other-gadgets/virtual-reality.htm)
 
-### Contact me
+## 5. Newebové zdroje
 
-[email@domain.com](mailto:email@domain.com)
+- AUKSTAKALNIS, Steve a David BLATNER. Reálně o virtuální realitě: umění a věda virtuální reality. Brno: Jota, 1994. Nové obzory. ISBN 80-85617-41-2.
+- GÖRNER, Tomáš a Petr HOŘEJŠÍ. Virtuální realita. 1. vyd. Plzeň: SmartMotion, 2011. Klastr mechatronika. ISBN 978-80-87539-02-6.
+- VÁGNER, Ivan. Svět postmoderních her. Vyd.1. Jinočany: H & H, 1995. ISBN 80-85787-75-X.
+- BOWEN, David a Joe ELLIOT. Multimédia: podrobný průvodce: [virtuální realita, trojrozměrné hry, Internet, World Wide Web, CD-ROM a informační superdálnice. 1. čes. vyd. Praha: Albatros, 1997. ISBN 80-00-00528-X.
+- KŘEJPSKÝ, Marek a Marek NAVRÁTIL. Human Factors in Virtual Reality. In Fourth Spring Research Conference of the Faculty of Engineering (SRCFE 99). (UK) Bristol: Univeristy of Bristol, 1999. s. 27-29.
+
+## 6. Videa a obrázky (odkazy)
+
+- [Cyberith Virtualizer + Oculus Rift + Virtual Reality Games Compilation](https://www.youtube.com/watch?v=OsmdD6OIcdg)
+- [25 Upcoming Oculus Rift Games In 2016 / 2017](https://www.youtube.com/watch?v=8dVVcLch1_Q)
+- [Virtual reality games are not so great](https://www.youtube.com/watch?v=fQ0JTkBZdyw)
+- [Top 10 Virtual Reality Games](https://www.youtube.com/watch?v=g5Q8JoSx_vI)
+- [5 Coolest Virtual Reality Gadgets You Must Have](https://www.youtube.com/watch?v=ng-wZnDq65Q)
+- [Gaming Virtual Reality: Near-Future or Next-Gen?](https://www.youtube.com/watch?v=Bk3zNzDgE3c)
+
+## 7. Vizuální inspirace
+
+- [Woodies](http://www.woodies.cz/homepage)
+
+## 8. Základní obsah k tématu
+
+- Zařízení + cenové relace  
+- Bázi, na jakých tyto technologie fungují a propojují se
+- Tematická videa s vlastním komentářem
+- Seznam her, které stojí za to si zahrát ve VR
+- Výhody a nevýhody VR v PC hrách
+- Dopady na lidskou psychologii 
+- Hry, které vyjdou v roce 2016/ 2017 + očekávání
+- Playstation a Xbox
+- Nahlédnutí do historie (i minulých představ o budoucnosti a jejich naplnění)
+- Předpoklady v budoucnosti
+- Pornografie ve virtuální realitě
+- Návod jak si vytvořit vlastní brýle 
+
+## 9. Strategii zveřejňování obsahu
+
+Dobré by bylo začít úvodním článkem o VR v počítačových hrách a seznámit s tím tak čtenáře. V dalších bodech představit zařízení, nějakou historii, dát nějaké varování (vše není tak růžové, jak se zdá) a poté seznamovat s detaily, jednotlivými hrami atd. Nakonec ukázat nějaké možnosti, se kterými bychom se mohli teoreticky setkat v budoucnosti.  Jak už bylo zmíněno, bylo by dobré veškeré zveřejněné články dokládat o vlastní posudek a názor (Na konci každého článku by bylo vyjádření všech účastníků na projektu).
+
