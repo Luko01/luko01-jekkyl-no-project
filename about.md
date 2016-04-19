@@ -20,6 +20,13 @@ Naše cílová skupina se bude pohybovat okolo lidí, kteří jsou zainteresová
 
 Protože máme všichni vlastní zkušenosti z oblasti, nebudeme blogovat jen o teorii, ale i praxi a zahrneme vlastní aspekty na toto téma. Rádi bychom čtenáře seznámili s tímto trendem, seznámili je jak s našimi názory, tak i světovými, ale také je varovali, co se může stát, pokud propadnou příliš velké vášni. 
 
+## 3. Název webu
+
+Virtuální realita v počítačových hrách, aneb v nové galaxii do jedné minuty.
+
+## 4. Webové zdroje
+
+- [http://vtm.e15.cz/z-virtualni-reality-vam-asi-bude-spatne ](Problémy používání VR)
 
 ### Contact me
 
