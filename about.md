@@ -26,7 +26,13 @@ Virtuální realita v počítačových hrách, aneb v nové galaxii do jedné mi
 
 ## 4. Webové zdroje
 
-- [http://vtm.e15.cz/z-virtualni-reality-vam-asi-bude-spatne ](Problémy používání VR)
+- [Problémy s používáním VR](http://vtm.e15.cz/z-virtualni-reality-vam-asi-bude-spatne)
+- [Rubriky těch nejzajímavějších článků o VR](http://www.svethardware.cz/virtualni-realita/)
+- [Dostupná zařízení a cenové relace](https://www.alza.cz/gaming/virtualni-realita/18856436.htm)
+- [Domácí výroba brýlí](https://www.youtube.com/watch?v=lEu-IGaucM4)
+- [Oficiální stránky Oculusu](https://www.oculus.com/en-us/)
+- [Srovnání zařízení pro virtuální realitu](http://www.wareable.com/headgear/the-best-ar-and-vr-headsets)
+- [Jak funguje virtuální realita?](http://electronics.howstuffworks.com/gadgets/other-gadgets/virtual-reality.htm)
 
 ### Contact me
 
