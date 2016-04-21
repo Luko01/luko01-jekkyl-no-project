@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Virtuální realita, hrozba a nebo výhoda? A představení týmu. 
+title: Virtuální realita, hrozba a nebo výhoda? - Představení týmu. 
 ---
 
 
